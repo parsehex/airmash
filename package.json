@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "@parsehex/airmash",
+  "version": "1.0.0",
+  "description": "Main repo for the stuff I make for airmash",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "keywords": [],
+  "author": "parsehex",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
