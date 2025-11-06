@@ -10,7 +10,6 @@
   },
   "keywords": [],
   "author": "parsehex",
-  "license": "MIT",
   "devDependencies": {
     "vitepress": "^1.6.4"
   }
