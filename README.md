@@ -1,6 +1,6 @@
 # [parsehex/airmash](https://parsehex.github.io/airmash/)
 
-AIRMASH is a web game originally created by a developer named **Five Sigma**. Play the game by flying one of 5 aircraft around a 2D map of planet Earth and destroy enemy aircraft. Keyboard controls are WASD/Arrows + Shift/Control and Space.
+AIRMASH is a web game originally created by the developer named **Five Sigma**. Play the game by flying one of 5 aircraft around a 2D map of planet Earth and destroy enemy aircraft. Keyboard controls are WASD/Arrows + Shift/Control and Space.
 
 I'm not well-known but I've been playing AIRMASH for about 7 years, using various but mostly meaningless [names](./names.md). From early on I loved how hackable the game was and how surprisingly active the modding scene was for a web game.
 
@@ -26,3 +26,10 @@ This is a mono-repository which combines the [frontend](https://github.com/airma
 ## Airmash Links
 
 If you'd like to learn more about the unique game Airmash, I can offer these links:
+
+- [AIRMASH - the game that refused to die](https://www.janwillemboer.nl/blog/posts/2019-11-airmash-history/)
+  - Blog post by Spatie about Airmash
+- [Airmash Links Directory](https://lazersharkoverlord.github.io/airmash-directory/)
+  - Learn about and find links for alternative clients for the game, which allows you to play with a different style or by adding features that the [vanilla client](https://airmash.rocks/) doesn't have.
+- [r/airmash](https://www.reddit.com/r/airmash/)
+  - Recommend reading through old posts
