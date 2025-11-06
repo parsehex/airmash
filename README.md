@@ -17,9 +17,10 @@ This is a collection of userscripts and Starmash extensions, some of which are f
 
 ## [airbattle-hosting](https://github.com/parsehex/airbattle-hosting)
 
-This is a mono-repository which combines the [frontend](https://github.com/airmash-refugees/airmash-frontend), wight's [ab-server](https://github.com/wight-airmash/ab-server) and spatie's [ab-bot](https://github.com/spatiebot/ab-bot) into a single place.
+This is a mono-repository which combines the [frontend](https://github.com/airmash-refugees/airmash-frontend) by [airmash-refugees](https://github.com/airmash-refugees), [wight](https://github.com/wight-airmash)'s [ab-server](https://github.com/wight-airmash/ab-server) and [Spatie](https://github.com/spatiebot)'s [ab-bot](https://github.com/spatiebot/ab-bot) into a single place where they all work together
 
-- Host an Airmash server on your own PC
+- The project uses my own forks of the above projects: [ab-bot](https://github.com/parsehex/ab-bot) / [ab-frontend](https://github.com/parsehex/ab-frontend) / [ab-server](https://github.com/parsehex/ab-server)
+- Use it to host your own Airmash server on your PC or use it as **single player with bots**
 - (Experimental) An Electron wrapper is available which offers some UI controls like changing the game mode and number of bots.
   - You must [setup](https://github.com/parsehex/airbattle-hosting#setup) the project to run this. Since this whole thing is [unlicened](https://github.com/parsehex/airbattle-hosting#license), I will not be offering pre-built copies of this application.
 
